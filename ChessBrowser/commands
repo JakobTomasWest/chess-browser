@@ -1,3 +1,0 @@
-dotnet build -t:Run -f net9.0-maccatalyst to run and build just mac
-dotnet build -f net9.0-maccatalyst to just build
-
