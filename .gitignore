@@ -21,3 +21,6 @@ obj/
 
 # Environment / secrets
 appsettings.Development.json
+
+#CMD
+commands/
